@@ -66,7 +66,7 @@ After building, run the executable to test the implementation of sorting algorit
 
 Directory Structure
 
-<repository-name>/
+<TsuDataStructures>/
 ├── DataStructures/
 │   ├── BinarySearchTree/
 │   │   ├── AVL.h
