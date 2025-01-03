@@ -1,8 +1,0 @@
-D:/c++/Github/Original/TsuDataStructures/cmake-build-debug-mingw/CMakeFiles/DataStructuresSeminars.dir
-D:/c++/Github/Original/TsuDataStructures/cmake-build-debug-mingw/CMakeFiles/edit_cache.dir
-D:/c++/Github/Original/TsuDataStructures/cmake-build-debug-mingw/CMakeFiles/rebuild_cache.dir
-D:/c++/Github/Original/TsuDataStructures/cmake-build-debug-mingw/SortingAlgorithms/CMakeFiles/SortingAlgorithms.dir
-D:/c++/Github/Original/TsuDataStructures/cmake-build-debug-mingw/SortingAlgorithms/CMakeFiles/edit_cache.dir
-D:/c++/Github/Original/TsuDataStructures/cmake-build-debug-mingw/SortingAlgorithms/CMakeFiles/rebuild_cache.dir
-D:/c++/Github/Original/TsuDataStructures/cmake-build-debug-mingw/DataStructures/CMakeFiles/edit_cache.dir
-D:/c++/Github/Original/TsuDataStructures/cmake-build-debug-mingw/DataStructures/CMakeFiles/rebuild_cache.dir
